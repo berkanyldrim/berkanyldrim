@@ -23,8 +23,6 @@
 
 
 <code><img height="75" src="https://user-images.githubusercontent.com/34273337/107853598-04033b80-6e28-11eb-9902-dca5d00d8ac9.png"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
-"></code>
 <code><img height="75" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="75" src="https://user-images.githubusercontent.com/34273337/107853599-05346880-6e28-11eb-89cc-4b4b34244fa0.png"></code>
 <code><img height="75" src="https://user-images.githubusercontent.com/34273337/107853602-06659580-6e28-11eb-86be-10986c851382.png"></code>
