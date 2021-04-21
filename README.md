@@ -27,23 +27,21 @@
 <br />
 
 ## 📚 Learning & Interested
+<code>
 
+<img align="left" height="75" src="https://user-images.githubusercontent.com/34273337/107853598-04033b80-6e28-11eb-9902-dca5d00d8ac9.png">
 
+<img align="left" alt="React" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75"/>
 
+<img align="left" alt="JavaScript" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
-
-<code><img align="left" height="75" src="https://user-images.githubusercontent.com/34273337/107853598-04033b80-6e28-11eb-9902-dca5d00d8ac9.png">
+<img align="left" alt="CSS3" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 </code>
-<code><img align="left" alt="React" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-</code>
-<code><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75"/>
-</code>
-<code><img align="left" alt="JavaScript" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img align="left" alt="HTML5" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-</code>
-<code><img align="left" alt="CSS3" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-</code>
+
+
 <br /><br /><br /><br />
 
 ## 📌 GitHub Stats And Top Languages
