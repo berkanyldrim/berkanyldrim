@@ -10,7 +10,7 @@
 - 🤔 I’m currently learning **Javascript, ReactJs,Bootstrap,Flutter**
 
 
-<br>
+<br />
 <h2> 📫 How to reach me
 
 <p align='center'>
@@ -24,7 +24,7 @@
 
 
 
-<br>
+<br />
 
 ## 📚 Learning & Interested
 
@@ -44,8 +44,7 @@
 </code>
 <code><img align="left" alt="CSS3" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 </code>
-
-<br><br><br><br>
+<br /><br /><br /><br />
 
 ## 📌 GitHub Stats And Top Languages
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkanyldrim&layout=compact&hide=html%22%20alt=%22berkanyldrim" alt="berkanyıldırım" /></p>
