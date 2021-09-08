@@ -5,9 +5,9 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="300" height="200">
 
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Software Development**
 
-- 🤔 I’m currently learning **Javascript, ReactJs,Bootstrap,Flutter**
+- 🤔 I’m currently learning **Javascript, ReactJs,Bootstrap,Flutter,C#, .NET**
 
 
 <br />
