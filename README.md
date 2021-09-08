@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkan</h1>
-<h3 align="center">Jr. Frontend Developer</h3>
+<h3 align="center">Jr. Software Developer</h3>
 
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="300" height="200">
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🤔 I’m currently learning **Javascript, ReactJs,Bootstrap,Flutter,C#, .NET**
+- 🤔 I’m currently learning **Javascript, ReactJs,Bootstrap,Flutter,C#, .NET,Java**
 
 
 <br />
