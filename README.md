@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🤔 I’m currently learning **Javascript, ReactJs,Bootstrap,Flutter,C#, .NET,Java**
+- 🤔 I’m currently developing on **Javascript, ReactJs,Bootstrap,Flutter,C#, .NET,Java**
 
 
 <br />
