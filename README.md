@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="300" height="200">
 
 
-- 🔭 I’m  **Freeleancer**
+
 
 - 🤔 I’m currently developing on **Javascript, ReactJs,Bootstrap,Flutter,C#, .NET,Java**
 
