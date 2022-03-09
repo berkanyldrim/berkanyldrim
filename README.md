@@ -1,16 +1,28 @@
-<h1 align="center">Hi 👋, I'm Berkan</h1>
-<h3 align="center">Jr. Software Developer</h3>
+
+<h2> Hey there! I'm Berkan. 👋</h2>
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 💼 &nbsp; Working as a Frontend Developer at ALBERT SOLINO
 
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width="300" height="200">
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; HTML | CSS | JavaScript | NodeJS | VueJS | .NET | C#
+- 🛢 &nbsp; MSSQL | MySQL | MongoDB | Docker
+- 🔧 &nbsp; Git 
+
+### 📈 GitHub Activity Graph:
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=berkanyldrim&bg_color=ffffff&color=000000&line=000000&point=dd6e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+📊 GitHub Stats
+--- 
+[![berkanyldrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkanyldrim)](https://github.com/berkanyldrim/github-readme-stats)
+<br>
+ 🚀 Used Languages
+ ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkanyldrim)](https://github.com/berkanyldrim/github-readme-stats)
 
 
-
-
-- 🤔 I’m currently developing on **Javascript, ReactJs,Bootstrap,Flutter,C#, .NET,Java**
-
-
-<br />
 <h2> 📫 How to reach me
 
 <p align='center'>
@@ -21,32 +33,13 @@
 </p>  
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/berkanyldrim/count.svg" />
+</p>
 
 
 
-<br />
-
-## 📚 Learning & Interested
-<code>
-
-<img align="left" height="75" src="https://user-images.githubusercontent.com/34273337/107853598-04033b80-6e28-11eb-9902-dca5d00d8ac9.png">
-
-<img align="left" alt="React" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75"/>
-
-<img align="left" alt="JavaScript" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-
-<img align="left" alt="CSS3" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-</code>
-
-
-<br /><br /><br /><br />
-
-## 📌 GitHub Stats And Top Languages
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkanyldrim&layout=compact&hide=html%22%20alt=%22berkanyldrim" alt="berkanyıldırım" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=berkanyldrim&show_icons=true" /></p>
 
 
 
