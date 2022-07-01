@@ -2,7 +2,7 @@
 <h2> Hey there! I'm Berkan. 👋</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as a Frontend Developer at ALBERT SOLINO
+- 💼 &nbsp; Working as a Software Developer at Proxolab
 
 
 <h3>🛠 Tech Stack</h3>
