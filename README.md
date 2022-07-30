@@ -14,11 +14,7 @@
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=berkanyldrim&bg_color=ffffff&color=000000&line=000000&point=dd6e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-📊 GitHub Stats
---- 
-[![berkanyldrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkanyldrim)](https://github.com/berkanyldrim/github-readme-stats)
-<br>
- 🚀 Used Languages
+sed Languages
  ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkanyldrim)](https://github.com/berkanyldrim/github-readme-stats)
 
