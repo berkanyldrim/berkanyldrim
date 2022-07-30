@@ -1,4 +1,3 @@
-
 <h2> Hey there! I'm Berkan. 👋</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -7,14 +6,16 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | NodeJS | VueJS | .NET | C#
+- 💻 &nbsp; HTML | CSS | JavaScript | NodeJS | NextJS | React | Go
 - 🛢 &nbsp; MSSQL | MySQL | MongoDB | Docker
 - 🔧 &nbsp; Git 
 
-### 📈 GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=berkanyldrim&bg_color=ffffff&color=000000&line=000000&point=dd6e6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-sed Languages
+📊 GitHub Stats
+--- 
+[![berkanyldrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkanyldrim)](https://github.com/berkanyldrim/github-readme-stats)
+<br>
+ 🚀 Used Languages
  ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkanyldrim)](https://github.com/berkanyldrim/github-readme-stats)
 
@@ -33,9 +34,4 @@ sed Languages
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/berkanyldrim/count.svg" />
 </p>
-
-
-
-
-
 
