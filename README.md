@@ -6,7 +6,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | NodeJS | NextJS | React | Go
+- 💻 &nbsp; HTML | CSS | JavaScript | TypeScript | NodeJS | NextJS | React | Go
 - 🛢 &nbsp; MSSQL | MySQL | MongoDB | Docker
 - 🔧 &nbsp; Git 
 
