@@ -26,7 +26,6 @@
 
 <a href="mailto:berkanyldrim@gmail.com"><img src="https://img.shields.io/badge/Gmail-e82a09.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.linkedin.com/in/berkanyldrim"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://twitter.com/berkanyildrm"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fberkanyildrm" /></a>
 </p>  
 
 
